@@ -26,7 +26,7 @@
 </td>
 <td>
 <div align="right">
-<img src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47o1a3hogp710ijrnoemmlps9isiznfp2iqcmr8rjq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200" width="200">
+<img src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47o1a3hogp710ijrnoemmlps9isiznfp2iqcmr8rjq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="160" width="160">
 </div>
 
 </td>
