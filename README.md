@@ -10,7 +10,7 @@
 <p>🌟 I'm a techie at heart and love delving into the world of data science and machine learning. Solving intricate problems using advanced analytics techniques excites me, and I'm constantly exploring innovative ways to leverage data for insightful solutions.  </p>
 
 <hr>
-<img align="right" src="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq" height="150px" width="200px">
+<img align="right" src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47o1a3hogp710ijrnoemmlps9isiznfp2iqcmr8rjq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="150px" width="200px">
 
 
 <li>🔭 I’m currently a <em>Data Analytics Engineer</em> student at <strong>George Mason University</strong>.</li>
