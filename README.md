@@ -2,7 +2,7 @@
   <img src="code.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Sumukh Bharadvaja Shivaram</h1>
-<h3 align="center"> Data Scientist and Analyst  </h3>
+
 
 <div align="Left"> 
     <img src="https://komarev.com/ghpvc/?username=Sumukh-Bharadvaja" alt="Sumukh-Bharadvaja"> 
