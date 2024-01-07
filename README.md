@@ -16,15 +16,11 @@
 <td>
 
 
-
 <li>🔭 I’m currently a <em>Data Analytics Engineer</em> student at <strong>George Mason University</strong>.</li>
-
 <li>🌱 I’m currently learning <strong>NLP, Neural Networks</strong> .</li>
-
 <li>☁  Worked as a <em>Data Science Intern</em> at <strong>Rubexie</strong></li>
 <li>☁  Worked as a <em>Data Analyst</em> at <strong>Tata Consultancy Services</strong></li>
-
-<li>👨‍🎓 
+<li>👨‍🎓 Exploring the ever-evolving tech landscape. Sharing discoveries to contribute and learn together.
 <li>⚡ Fun fact <strong>I am Automobile Enthusiast</strong></li>
 
 </td>
