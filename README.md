@@ -1,4 +1,4 @@
-[![MasterHead](code.gif)]
+![MasterHead](code.gif)
 <h1 align="center">Hi 👋, I'm Sumukh Bharadvaja Shivaram</h1>
 <h3 align="center">A Passionate Data sciene Master's Student  </h3>
 
