@@ -11,7 +11,7 @@
 
 <hr>
 
-<img align="right" src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47o1a3hogp710ijrnoemmlps9isiznfp2iqcmr8rjq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200px" width="200px">
+<img align="right" src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47o1a3hogp710ijrnoemmlps9isiznfp2iqcmr8rjq&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="100px" width="100px">
 
 
 <li>🔭 I’m currently a <em>Data Analytics Engineer</em> student at <strong>George Mason University</strong>.</li>
