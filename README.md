@@ -13,12 +13,12 @@
 
 <p align="left"> <a href="https://twitter.com/Zoroghost12" target="blank"><img src="https://img.shields.io/twitter/follow/Zoroghost12?logo=twitter&style=for-the-badge" alt="Sumukh_B_S" </p>
 
-- 🔭 I’m currently student at **George Mason University**
+<li>🔭 I’m currently a <em>Data Science</em> student at <strong>George Mason University</strong>.</li>
 
-- 🌱 I’m currently learning **NLP**
+<li>🌱 I’m currently learning <strong>NLP, Neural Networks</strong> .</li>
 
-- 💬 Ask me about **Data Science, Analytics**
+<li>☁  Worked as a <em>Data Science Intern</em> at <strong>Rubexie</strong></li>
+<li>☁  Worked as a <em>Data Analyst</em> at <strong>Tata Consultancy Services</strong></li>
 
-- 📫 How to reach me **bharadvajasumukh@gmail.com**
 
-- ⚡ Fun fact **I am Automobile Enthusiast**
+<li>⚡ Fun fact <strong>I am Automobile Enthusiast</strong></li>
