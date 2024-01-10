@@ -55,13 +55,13 @@ Solving intricate problems using advanced analytics techniques excites me, and I
     </td>
     <td align="center" width="100">
       <a href="#sumukh-tech">
-        <img src="./img/Microsoft-Power-BI-Logo-500x281.png"  alt="PowerBI" />
+        <img src="./img/Microsoft-Power-BI-Logo-500x281.png" width="50" height="50"  alt="PowerBI" />
       </a>
       <br>PowerBI
     </td>
     <td align="center" width="100" >
       <a href="#sumukh-tech">
-        <img src="./img/excel.jpg"  alt="Microsoft Excel" />
+        <img src="./img/excel.jpg" width="50" height="50" alt="Microsoft Excel" />
       </a>
       <br>MS Excel
     </td>
