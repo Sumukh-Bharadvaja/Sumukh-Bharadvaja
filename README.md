@@ -13,11 +13,12 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <h3 align="center"><em>I believe that any Data is a Boon for Monetization!</em></h3>
 <hr>
 
+<h2 align='center'>🌱 What do I do and What have I done?</h2>
 <table>
 <tr>
 <td>
 
-<h2 align='center'>🌱 What do I do and What have I done?</h2>
+
 
 <li>🔭 I’m currently a <em>Data Analytics Engineer</em> student at <strong>George Mason University</strong>.</li>
 <li>🌱 I’m currently learning <strong>NLP, Neural Networks</strong>.</li>
@@ -37,7 +38,36 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 <hr>
 
+<h3 align="center">Technologies and Tools I Use:</h3>
+  <table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#sumukh-tech">
+        <img src="./img/python.jpg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#sumukh-tech">
+        <img src="./img/R.jpg" width="48" height="48" alt="R" />
+      </a>
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <a href="#sumukh-tech">
+        <img src="./img/Microsoft-Power-BI-Logo-500x281.png" width="48" height="48" alt="PowerBI" />
+      </a>
+      <br>PowerBI
+    </td>
+    <td align="center" width="96">
+      <a href="#sumukh-tech">
+        <img src="./img/excel.jpg" width="48" height="48" alt="Microsoft Excel" />
+      </a>
+      <br>Microsoft Excel
+    </td>
+
 <h3 align="center">Byte-sized Breaks: My Non-Coding Exploits</h3>
+
 
 
 <div align="Center"> 
