@@ -38,33 +38,36 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 <hr>
 
-<h3 align="center">Technologies and Tools I Use:</h3>
-  <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#sumukh-tech">
-        <img src="./img/python.jpg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#sumukh-tech">
-        <img src="./img/R.jpg" width="48" height="48" alt="R" />
-      </a>
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <a href="#sumukh-tech">
-        <img src="./img/Microsoft-Power-BI-Logo-500x281.png" width="48" height="48" alt="PowerBI" />
-      </a>
-      <br>PowerBI
-    </td>
-    <td align="center" width="96">
-      <a href="#sumukh-tech">
-        <img src="./img/excel.jpg" width="48" height="48" alt="Microsoft Excel" />
-      </a>
-      <br>Microsoft Excel
-    </td>
+<h3 align="left">Technologies and Tools I Use:</h3>
+<table>
+<tr>
+  <td align="center" width="96">
+    <a href="#sumukh-tech">
+      <img src="./img/python.jpg" width="48" height="48" alt="Python" />
+    </a>
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <a href="#sumukh-tech">
+      <img src="./img/R.jpg" width="48" height="48" alt="R" />
+    </a>
+    <br>R
+  </td>
+  <td align="center" width="96">
+    <a href="#sumukh-tech">
+      <img src="./img/Microsoft-Power-BI-Logo-500x281.png" width="30" height="36" alt="PowerBI" />
+    </a>
+    <br>PowerBI
+  </td>
+  <td align="center" width="96">
+    <a href="#sumukh-tech">
+      <img src="./img/excel.jpg" width="38" height="48" alt="Microsoft Excel" />
+    </a>
+    <br>Microsoft Excel
+  </td>
+
+<tr>
+</table>
 
 <h3 align="center">Byte-sized Breaks: My Non-Coding Exploits</h3>
 
