@@ -55,7 +55,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
     </td>
     <td align="center" width="100">
       <a href="#sumukh-tech">
-        <img src="./img/Powerbi.png"   alt="PowerBI" />
+        <img src="./img/PowerBi.jpg"   alt="PowerBI" />
       </a>
       <br>PowerBI
     </td>
