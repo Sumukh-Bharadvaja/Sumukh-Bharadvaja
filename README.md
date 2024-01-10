@@ -63,9 +63,8 @@ Solving intricate problems using advanced analytics techniques excites me, and I
     <a href="#sumukh-tech">
       <img src="./img/excel.jpg"  alt="Microsoft Excel" />
     </a>
-    <br>Microsoft Excel
+    <br>MS Excel
   </td>
-
 <tr>
 </table>
 
