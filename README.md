@@ -41,29 +41,29 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <hr>
 
 <h3 align="left">Technologies and Tools I Use:</h3>
-<table>
+<table align="left">
   <tr>
-    <td align="left" valign="middle">
+    <td align="center" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/python.jpg" width="48" height="48" alt="Python" />
+        <img src="./img/python.jpg" alt="Python" width="48" height="48" />
       </a>
       <br>Python
     </td>
-    <td align="left" valign="middle">
+    <td align="center" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/R.jpg" width="48" height="48" alt="R" />
+        <img src="./img/R.jpg" alt="R" width="48" height="48" />
       </a>
       <br>R
     </td>
-    <td align="left" valign="middle">
+    <td align="center" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/PowerBi.jpg" width="48" height="48" alt="PowerBI" />
+        <img src="./img/PowerBi.jpg" alt="PowerBI" width="48" height="48" />
       </a>
       <br>PowerBI
     </td>
-    <td align="left" valign="middle">
+    <td align="center" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/Microsoft_Excel-Logo.wine.svg" width="48" height="48" alt="Microsoft Excel" />
+        <img src="./img/Microsoft_Excel-Logo.wine.svg" alt="Microsoft Excel" width="48" height="48" />
       </a>
       <br>MS Excel
     </td>
