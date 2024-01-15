@@ -57,6 +57,12 @@ Solving intricate problems using advanced analytics techniques excites me, and I
     </td>
     <td align="center" valign="middle">
       <a href="#sumukh-tech">
+        <img src="./img/mysql.jpg" alt="MySQL" width="48" height="48" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" valign="middle">
+      <a href="#sumukh-tech">
         <img src="./img/PowerBi.jpg" alt="PowerBI" width="48" height="48" />
       </a>
       <br>PowerBI
@@ -66,6 +72,30 @@ Solving intricate problems using advanced analytics techniques excites me, and I
         <img src="./img/Microsoft_Excel-Logo.wine.svg" alt="Microsoft Excel" width="48" height="48" />
       </a>
       <br>MS Excel
+    </td>
+    <td align="center" valign="middle">
+      <a href="#sumukh-tech">
+        <img src="./img/scikit-learn-logo.svg" alt="Scikit-Learn" width="48" height="48" />
+      </a>
+      <br>Scikit-Learn
+    </td>
+    <td align="center" valign="middle">
+      <a href="#sumukh-tech">
+        <img src="./img/pandas.svg" alt="Pandas" width="48" height="48" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" valign="middle">
+      <a href="#sumukh-tech">
+        <img src="./img/numpy.svg" alt="Numpy" width="48" height="48" />
+      </a>
+      <br>Numpy
+    </td>
+    <td align="center" valign="middle">
+      <a href="#sumukh-tech">
+        <img src="./img/Git.svg" alt="Git" width="48" height="48" />
+      </a>
+      <br>Git
     </td>
   </tr>
 </table>
