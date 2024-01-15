@@ -100,11 +100,11 @@ Solving intricate problems using advanced analytics techniques excites me, and I
   </tr>
 </table>
 
-<div style="clear: both;"></div>
+
 
 <hr>
 
-<h3 align="center">Byte-sized Breaks: My Non-Coding Exploits</h3>
+<h3 align="left">Byte-sized Breaks: My Non-Coding Exploits</h3>
 
 <hr>
 
