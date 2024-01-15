@@ -13,7 +13,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <h3 align="center"><em>I believe that any Data is a Boon for Monetization!</em></h3>
 <hr>
 
-<h2 align='center'>🌱 What do I do and What have I done?</h2>
+<h2 align='left'>🌱 What do I do and What have I done?</h2>
 
 <div align="center">
 <table>
@@ -43,32 +43,33 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <h3 align="left">Technologies and Tools I Use:</h3>
 <table>
   <tr>
-    <td align="center" width="100">
+    <td align="left" valign="middle">
       <a href="#sumukh-tech">
         <img src="./img/python.jpg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="100" >
+    <td align="left" valign="middle">
       <a href="#sumukh-tech">
         <img src="./img/R.jpg" width="48" height="48" alt="R" />
       </a>
       <br>R
     </td>
-    <td align="center" width="100">
+    <td align="left" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/PowerBi.jpg" width="48" height="48"  alt="PowerBI" />
+        <img src="./img/PowerBi.jpg" width="48" height="48" alt="PowerBI" />
       </a>
       <br>PowerBI
     </td>
-    <td align="center" width="100" >
+    <td align="left" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/Microsoft_Excel-Logo.wine.svg" width="48" height="48"  alt="Microsoft Excel" />
+        <img src="./img/Microsoft_Excel-Logo.wine.svg" width="48" height="48" alt="Microsoft Excel" />
       </a>
       <br>MS Excel
     </td>
-  <tr>
+  </tr>
 </table>
+
 
 <hr>
 
