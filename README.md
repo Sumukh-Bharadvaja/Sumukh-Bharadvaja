@@ -103,16 +103,17 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <hr>
 
 <h3 align='left'>🌱 Byte-sized Breaks: My Non-Coding Exploits</h3>
+<img align="right" src="https://media.giphy.com/media/mhmswj1Pd36z1BMAg7/giphy.gif" height="150" width="150" alt="Animated GIF">
 
-
+<div align="right">
 - Nature Photography 📷
 - I love to Swim!!🏊
 - Calisthenics and Weight Training🏋️‍♂️
 - Impromptu voyager!!🚗
 - I am a Multiplayer duelist!!🎮
 - F1 fanatic 🚘
+</div>
 
-<img align="right" src="https://media.giphy.com/media/mhmswj1Pd36z1BMAg7/giphy.gif" height="150" width="150" alt="Animated GIF">
 
 <hr>
 
