@@ -105,21 +105,21 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <h3 align="Left">Byte-sized Breaks: My Non-Coding Exploits</h3>
 
 
+<img align="right"src="https://media.giphy.com/media/2vKxKksLiwOGZDErkH/giphy.gif" height="150" width="150">
+<ul>
+  <li>📷 Nature Photography </li> 
+  <li>🏊 I love to Swim!! </li> 
+  <li>🏋️‍♂️ Calesthenics and Weight Training </li> 
+  <li>🚗 Impromptu voyager!! </li> 
+  <li>🎮 I am Multiplayer duelist!!</li> 
+  <li>🚘 F1 fanatic </li> 
+</ul>
+<hr>
 
-<li>📷 Nature Photography </li> 
-<li>🏊 I love to Swim!! </li> 
-<li>🏋️‍♂️ Calesthenics and Weight Training </li> 
-<li>🚗 Impromptu voyager!! </li> 
-<li>🎮 I am Multiplayer duelist!!</li> 
-<li>🚘 F1 fanatic </li> 
 
-<div align="right">
-<img src="https://media.giphy.com/media/2vKxKksLiwOGZDErkH/giphy.gif" height="150" width="150">
-</div>
 
-</td>
-</tr>
-</table>
+
+
 
 <hr>
 
