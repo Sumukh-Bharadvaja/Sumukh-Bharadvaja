@@ -41,7 +41,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <hr>
 
 <h3 align="left">Technologies and Tools I Use:</h3>
-<table align="left">
+<table >
   <tr>
     <td align="center" valign="middle">
       <a href="#sumukh-tech">
