@@ -57,7 +57,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
     </td>
     <td align="center" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/mysql.jpg" alt="MySQL" width="48" height="48" />
+        <img src="./img/MySQL.png." alt="MySQL" width="48" height="48" />
       </a>
       <br>MySQL
     </td>
@@ -75,13 +75,13 @@ Solving intricate problems using advanced analytics techniques excites me, and I
     </td>
     <td align="center" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/scikit-learn-logo.svg" alt="Scikit-Learn" width="48" height="48" />
+        <img src="./img/scikit-learn-logo.png" alt="Scikit-Learn" width="48" height="48" />
       </a>
       <br>Scikit-Learn
     </td>
     <td align="center" valign="middle">
       <a href="#sumukh-tech">
-        <img src="./img/pandas.svg" alt="Pandas" width="48" height="48" />
+        <img src="./img/pandas.png" alt="Pandas" width="48" height="48" />
       </a>
       <br>Pandas
     </td>
@@ -100,6 +100,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
   </tr>
 </table>
 
+<br style="clear: both;" />
 
 <hr>
 
