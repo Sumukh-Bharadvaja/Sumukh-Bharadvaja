@@ -14,9 +14,11 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <hr>
 
 <h2 align='center'>🌱 What do I do and What have I done?</h2>
+
+<div align="center">
 <table>
 <tr>
-<td>
+<td >
 
 
 
@@ -55,24 +57,27 @@ Solving intricate problems using advanced analytics techniques excites me, and I
     </td>
     <td align="center" width="100">
       <a href="#sumukh-tech">
-        <img src="./img/PowerBi.jpg"   alt="PowerBI" />
+        <img src="./img/PowerBi.jpg" width="48" height="48"  alt="PowerBI" />
       </a>
       <br>PowerBI
     </td>
     <td align="center" width="100" >
       <a href="#sumukh-tech">
-        <img src="./img/Microsoft_Excel-Logo.wine.svg"  alt="Microsoft Excel" />
+        <img src="./img/Microsoft_Excel-Logo.wine.svg" width="48" height="48"  alt="Microsoft Excel" />
       </a>
       <br>MS Excel
     </td>
   <tr>
 </table>
 
+<hr>
+
 <h3 align="center">Byte-sized Breaks: My Non-Coding Exploits</h3>
 
+<hr>
 
 
-<div align="Center"> 
+<div align="Left"> 
     <img src="https://profile-counter.glitch.me/Sumukh-Bharadvaja/count.svg" alt="Sumukh-Bharadvaja"> 
 </div>
 
