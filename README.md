@@ -101,7 +101,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 </table>
 
 <hr>
-<img align="right" src="https://media.giphy.com/media/mhmswj1Pd36z1BMAg7/giphy.gif" height="150" width="150" alt="Animated GIF">
+<img align="right" src="https://media.giphy.com/media/mhmswj1Pd36z1BMAg7/giphy.gif" height="200" width="250" alt="Animated GIF">
 
 
 <div align="left">
@@ -115,7 +115,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
     <li>F1 fanatic 🚘</li>
   </ul>
 </div>
-<img align="right" src="https://media.giphy.com/media/mhmswj1Pd36z1BMAg7/giphy.gif" height="150" width="150" alt="Animated GIF">
+
 
 
 
