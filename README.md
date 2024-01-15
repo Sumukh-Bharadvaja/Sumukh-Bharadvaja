@@ -101,27 +101,30 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 </table>
 
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+    <h3 align="left">Byte-sized Breaks: My Non-Coding Exploits</h3>
+    <ul>
+      <li>Nature Photography 📷</li>
+      <li>I love to Swim!!🏊</li>
+      <li>Calesthenics and Weight Training🏋️‍♂️</li>
+      <li>Impromptu voyager!!🚗</li>
+      <li>I am a Multiplayer duelist!!🎮</li>
+      <li>F1 fanatic 🚘</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/2vKxKksLiwOGZDErkH/giphy.gif" height="150" width="150">
+  </div>
+</div>
 <hr>
-<img align="right" src="https://media.giphy.com/media/2vKxKksLiwOGZDErkH/giphy.gif" height="150" width="150">
-<h3 align="Left">Byte-sized Breaks: My Non-Coding Exploits</h3>
-
-
-<ul>
-  <li> Nature Photography 📷 </li> 
-  <li> I love to Swim!!🏊 </li> 
-  <li> Calesthenics and Weight Training🏋️‍♂️ </li> 
-  <li> Impromptu voyager!!🚗 </li> 
-  <li>I am Multiplayer duelist!!🎮 </li> 
-  <li> F1 fanatic 🚘</li> 
-</ul>
-<hr>
 
 
 
 
 
 
-<hr>
+
 
 <div align="Left"> 
     <img src="https://profile-counter.glitch.me/Sumukh-Bharadvaja/count.svg" alt="Sumukh-Bharadvaja"> 
