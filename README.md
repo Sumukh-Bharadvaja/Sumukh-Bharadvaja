@@ -102,11 +102,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 
 <hr>
-<h3 align="center">Byte-sized Breaks: My Non-Coding Exploits</h3>
-<div align="center">
-<table>
-<tr>
-<td >
+<h3 align="Left">Byte-sized Breaks: My Non-Coding Exploits</h3>
 
 
 
@@ -116,10 +112,9 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <li>🚗 Impromptu voyager!! </li> 
 <li>🎮 I am Multiplayer duelist!!</li> 
 <li>🚘 F1 fanatic </li> 
-</td>
-<td>
+
 <div align="right">
-<img src="https://giphy.com/gifs/f1-ferrari-formulaone-2vKxKksLiwOGZDErkH/fullscreen" height="150" width="150">
+<img src="https://media.giphy.com/media/2vKxKksLiwOGZDErkH/giphy.gif" height="150" width="150">
 </div>
 
 </td>
