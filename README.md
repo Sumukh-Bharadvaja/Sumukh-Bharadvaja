@@ -100,7 +100,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
   </tr>
 </table>
 
-<br style="clear: both;" />
+<div style="clear: both;"></div>
 
 <hr>
 
