@@ -124,7 +124,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 <h3>How to reach me ✨</h3>
 <div>
-    <a href="www.linkedin.com/in/sumukh-bharadvaja-shivaram/">
+    <a href="https://www.linkedin.com/in/sumukh-bharadvaja-shivaram/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
     </a>&nbsp;&nbsp;
     <a href="mailto:bharadvajasumukh@gmail.com">
@@ -138,3 +138,5 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <div align="Left"> 
     <img src="https://profile-counter.glitch.me/Sumukh-Bharadvaja/count.svg" alt="Sumukh-Bharadvaja"> 
 </div>
+
+[def]: ww.linkedin.com/in/sumukh-bharadvaja-shivaram
