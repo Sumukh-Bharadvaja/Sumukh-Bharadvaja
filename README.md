@@ -124,13 +124,13 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 <h3>How to reach me ✨</h3>
 <div>
-    <a href="www.linkedin.com/in/sumukh-bharadvaja-shivaram">
+    <a href="www.linkedin.com/in/sumukh-bharadvaja-shivaram/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
     </a>&nbsp;&nbsp;
     <a href="mailto:bharadvajasumukh@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/Sumukh-Bharadvaja">
+    <a href="https://github.com/Sumukh-Bharadvaja/">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>&nbsp;&nbsp;
 
