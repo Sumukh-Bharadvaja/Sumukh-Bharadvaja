@@ -122,11 +122,19 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 <hr>
 
 
+<h3>How to reach me ✨</h3>
+<div>
+    <a href="www.linkedin.com/in/sumukh-bharadvaja-shivaram">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+    </a>&nbsp;&nbsp;
+    <a href="mailto:bharadvajasumukh@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/Sumukh-Bharadvaja">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>&nbsp;&nbsp;
 
-
-
+<hr>
 <div align="Left"> 
     <img src="https://profile-counter.glitch.me/Sumukh-Bharadvaja/count.svg" alt="Sumukh-Bharadvaja"> 
 </div>
-
-<p align="left"> <a href="https://twitter.com/Zoroghost12" target="blank"><img src="https://img.shields.io/twitter/follow/Zoroghost12?logo=twitter&style=for-the-badge" alt="Sumukh_B_S" </p>
