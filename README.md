@@ -22,11 +22,11 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 
 
-<li>🔭 I’m currently a <em>Data Analytics Engineer</em> student at <strong>George Mason University</strong>.</li>
-<li>🌱 I’m currently learning <strong>NLP, Neural Networks</strong>.</li>
-<li>☁  Worked as a <em>Data Science Intern</em> at <strong>Rubexie</strong></li>
-<li>☁  Worked as a <em>Data Analyst</em> at <strong>Tata Consultancy Services</strong></li>
-<li>⚡ Fun fact <strong>I am Automobile Enthusiast!</strong></li>
+<li>🔭 I’m a <em>Data Analytics Engineer</em> graduted from  <strong>George Mason University</strong>.</li>
+<li>🌱 I’m currently working on  <strong> Neural Networks and Deep Learning Research</strong>.</li>
+<li>☁  Worked as a <em>Data Scientist </em> at <strong>Rubexie</strong></li>
+<li>☁  Worked as a <em>Data Analyst/Software Engineer</em> at <strong>Tata Consultancy Services</strong></li>
+<li>⚡ Fun fact <strong>I am Automobile Enthusiast and Data Geek!</strong></li>
 
 </td>
 <td>
@@ -105,14 +105,14 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 
 <div align="left">
-  <h3>Byte-sized Breaks: My Non-Coding Exploits</h3>
+  <h3>Hobbies and Interests: My Non-Coding Exploits</h3>
   <ul>
     <li>Nature Photography 📷</li>
     <li>I love to Swim!!🏊</li>
     <li>Calisthenics and Weight Training🏋️‍♂️</li>
-    <li>Impromptu voyager!!🚗</li>
-    <li>I am a Multiplayer duelist!!🎮</li>
-    <li>F1 fanatic 🚘</li>
+    <li>Unplanned voyager!!🚗</li>
+    <li>I love watching series from different genres!</li>
+    <li>F1 enthusiast 🚘</li>
   </ul>
 </div>
 
@@ -136,7 +136,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 <hr>
 <div align="Left"> 
-    <img src="https://profile-counter.glitch.me/Sumukh-Bharadvaja/count.svg" alt="Sumukh-Bharadvaja"> 
+    <img src="![](https://komarev.com/ghpvc/?username=Sumukh-Bharadvaja&style=for-the-badge&label=VIEWS)" alt="Sumukh-Bharadvaja"> 
 </div>
 
 [def]: ww.linkedin.com/in/sumukh-bharadvaja-shivaram
