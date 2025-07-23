@@ -136,7 +136,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 <hr>
 <div align="Left"> 
-    <img src="![](https://komarev.com/ghpvc/?username=Sumukh-Bharadvaja&style=for-the-badge&label=VIEWS)" alt="Sumukh-Bharadvaja"> 
+    <img src="https://komarev.com/ghpvc/?username=Sumukh-Bharadvaja&style=for-the-badge&label=VIEWS" alt="Sumukh-Bharadvaja"> 
 </div>
 
 [def]: ww.linkedin.com/in/sumukh-bharadvaja-shivaram
