@@ -122,6 +122,6 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 </picture>
 
 <div align="Left"> 
-    <img src="https://komarev.com/ghpvc/?username=Sumukh-Bharadvaja&style=for-the-badge&label=VIEWS" alt="Sumukh-Bharadvaja"> 
+    <img src="https://komarev.com/ghpvc/?username=Sumukh-Bharadvaja&style=for-the-badge&label=VIEWS" alt="Views"> 
 </div>
 
