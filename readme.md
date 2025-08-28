@@ -1,16 +1,14 @@
-
-
-<h2 align="left">Hi 👋! My name is Sumukh Bharadvaja and I'm a Software Developer .</h2>
+<h2 align="left">Hi ðŸ‘‹! My name is Sumukh Bharadvaja and I'm a Software Developer .</h2>
 
 ###
-<p>🌟 I am Sumukh, I'm a techie at heart and love delving into the world of data science and machine learning.
-Swapping gears from mechanical mastery to mastering data analytics – I'm just upgrading from nuts and bolts to algorithms and data plots!
+<p>ðŸŒŸ I am Sumukh, I'm a techie at heart and love delving into the world of data science and machine learning.
+Swapping gears from mechanical mastery to mastering data analytics â€“ I'm just upgrading from nuts and bolts to algorithms and data plots!
 Solving intricate problems using advanced analytics techniques excites me, and I'm constantly exploring innovative ways to leverage data for insightful solutions.  </p>
 <h3 align="center"><em>I believe that any Data is a Boon for Monetization!</em></h3>
 <hr>
 
 
-<h2 align='left'>🌱 What do I do and What have I done?</h2>
+<h2 align='left'>ðŸŒ± What do I do and What have I done?</h2>
 
 <div align="center">
 <table>
@@ -19,11 +17,11 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 
 
-<li>🔭 I’m a <em>Data Analytics Engineer</em> graduted from  <strong>George Mason University</strong>.</li>
-<li>🌱 I’m currently working on  <strong> Neural Networks and Deep Learning Research</strong>.</li>
-<li>☁  Worked as a <em>Data Scientist </em> at <strong>Rubexie</strong></li>
-<li>☁  Worked as a <em>Data Analyst/Software Engineer</em> at <strong>Tata Consultancy Services</strong></li>
-<li>⚡ Fun fact <strong>I am Automobile Enthusiast and Data Geek!</strong></li>
+<li>ðŸ”­ Iâ€™m a <em>Data Analytics Engineer</em> graduted from  <strong>George Mason University</strong>.</li>
+<li>ðŸŒ± Iâ€™m currently working on  <strong> Neural Networks and Deep Learning Research</strong>.</li>
+<li>â˜  Worked as a <em>Data Scientist </em> at <strong>Rubexie</strong></li>
+<li>â˜  Worked as a <em>Data Analyst/Software Engineer</em> at <strong>Tata Consultancy Services</strong></li>
+<li>âš¡ Fun fact <strong>I am Automobile Enthusiast and Data Geek!</strong></li>
 
 
 </td>
@@ -41,6 +39,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
   <img src="https://github-readme-stats.vercel.app/api?username=Sumukh-Bharadvaja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumukh-Bharadvaja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&exclude_repo=github-readme-stats" height="150" alt="languages graph"/>
 </div>
+
 
 ###
 
@@ -176,7 +175,7 @@ Solving intricate problems using advanced analytics techniques excites me, and I
 
 <img src="https://raw.githubusercontent.com/Sumukh-Bharadvaja/Sumukh-Bharadvaja/output/snake.svg" alt="Snake animation" />
 
-<div align="Left"> 
-    <img src="https://komarev.com/ghpvc/?username=Sumukh-Bharadvaja&style=for-the-badge&label=VIEWS" alt="Views"> 
-</div>
 
+
+
+###
